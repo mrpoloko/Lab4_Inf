@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+   <lang>ru</lang>
+   <group>P3118</group>
+   <week>
+      <day>вторник</day>
+      <lessons>
+         <lesson1 time1="pol" POL="dko">
+            <time>15:20-16:50</time>
+            <room>2219 ауд.</room>
+            <place>ул.Ломоносова, д.9, лит. А</place>
+            <title>иностранный язык (практика)</title>
+            <class_format>очный</class_format>
+         </lesson1>
+         <lesson2>
+            <time>17:00-18:30</time>
+            <room>3120 ауд.</room>
+            <place>ул.Ломоносова, д.9, лит. А</place>
+            <title>иностранный язык (практика)</title>
+            <class_format>очный</class_format>
+         </lesson2>
+      </lessons>
+   </week>
+   <week>
+      <day>пятница</day>
+         <lessons>
+            <lesson1>
+               <time>8:20-9:50</time>
+               <room>2337 ауд.</room>
+               <place>ул.Ломоносова, д.9, лит. А</place>
+               <title>математика (лекция)</title>
+               <class_format>очный</class_format>
+            </lesson1>
+            <lesson2>
+               <time>10:00-11:30</time>
+               <room>2337 ауд.</room>
+               <place>ул.Ломоносова, д.9, лит. А</place>
+               <title>математика (практика)</title>
+               <class_format>очный</class_format>
+            </lesson2>
+            <lesson3>
+               <time>17:00-18:30</time>
+               <room>2308 ауд.</room>
+               <place>Кронверкский пр., д.49, лит.А</place>
+               <title>основы профессиональной деятельности</title>
+               <class_format>очный</class_format>
+            </lesson3>
+            <lesson4>
+               <time>18:40-20:10</time>
+               <room>2308 ауд.</room>
+               <place>Кронверкский пр., д.49, лит.А</place>
+               <title>физическая культура</title>
+               <class_format>очный</class_format>
+            </lesson4>
+         </lessons>
+   </week>
+</timetable>
